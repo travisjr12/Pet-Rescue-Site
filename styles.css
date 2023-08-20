@@ -1,0 +1,58 @@
+.we-love-pets{
+  color:rgb(0, 0, 0);
+  background-color: rgb(140, 119, 199);
+  border-style: groove;
+  border-width: 50px;
+  border-color: rgb(255, 255, 255);
+  text-align: left;
+}
+.page-one-background {
+  background-color: rgb(209, 56, 56);
+}
+
+#highlight{
+ background-color: rgb(226, 158, 10);
+
+}
+ #highlight:hover {
+  background-color: rgb(51, 255, 0);
+}
+#aboutColor{
+  background-color: rgb(194, 109, 190);
+}
+#contactColor{
+  background-color: rgb(138, 99, 28);
+}
+#rescueColor{
+  background-color: rgb(108, 207, 211);
+}
+.nameColor{
+  color: rgb(0, 0, 0);
+  background-color: rgb(114, 120, 175);
+font-size: x-large;}
+h1 {
+  font-size: 500%;
+  
+}
+div{
+  text-transform: uppercase;
+}
+img{
+  border-color: black;
+  border-style: ridge;
+}
+#infoColor{
+background-color: rgb(255, 255, 255);
+}
+form{
+  background-color: rgb(199, 119, 156);
+}
+h3{
+  background-color: yellowgreen ;
+}
+h2{
+  background-color: darkorange;
+}
+.donate{ 
+  color: rgb(255, 0, 0);
+}
